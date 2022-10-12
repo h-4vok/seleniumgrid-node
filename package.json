@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "appium": "^1.16.0",
+    "appium": "^1.22.3",
     "appium-windows-driver": "1.11.0"
   }
 }
